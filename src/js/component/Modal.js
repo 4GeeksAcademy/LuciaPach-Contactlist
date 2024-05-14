@@ -10,7 +10,7 @@ export const Modal = props => {
 		email: props.contact && props.contact.email ? props.contact.email : "",
 		phone: props.contact && props.contact.phone ? props.contact.phone : "",
 		address: props.contact && props.contact.address ? props.contact.address : "",
-		agenda_slug: "natalial.salas"
+		agenda_slug: "luciap"
 	});
 	let modalContent;
 
